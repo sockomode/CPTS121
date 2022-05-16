@@ -1,0 +1,3 @@
+﻿  equations.c
+C:\Users\Administrator\Desktop\CptS121\Lab9\Lab9\equations.c(92,5): error C2084: function 'int my_strcmp(const char *,const char *)' already has a body
+C:\Users\Administrator\Desktop\CptS121\Lab9\Lab9\equations.c(77): message : see previous definition of 'my_strcmp'
