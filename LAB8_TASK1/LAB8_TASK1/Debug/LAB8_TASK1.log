@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\CptS121\LAB8_TASK1\LAB8_TASK1\main.c(20,7): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\CptS121\LAB8_TASK1\LAB8_TASK1\main.c(20,26): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\CptS121\LAB8_TASK1\LAB8_TASK1\main.c(34,19): warning C4013: 'rand' undefined; assuming extern returning int
+  LAB8_TASK1.vcxproj -> C:\Users\Administrator\Desktop\CptS121\LAB8_TASK1\Debug\LAB8_TASK1.exe
