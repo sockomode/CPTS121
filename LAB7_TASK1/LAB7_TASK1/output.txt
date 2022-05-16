@@ -1,0 +1,5 @@
+Date: 9 / 2001
+Customer Number: 42069
+Number of hours: 58.000000
+Total Charge: 103.51
+Average Charge Per Hour: 1.78

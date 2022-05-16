@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\CptS121\LAB7_TASK1\LAB7_TASK1\main.c(10,19): warning C4101: 'total_amount': unreferenced local variable
+C:\Users\Administrator\Desktop\CptS121\LAB7_TASK1\LAB7_TASK1\main.c(10,57): warning C4101: 'num': unreferenced local variable
+  LAB7_TASK1.vcxproj -> C:\Users\Administrator\Desktop\CptS121\LAB7_TASK1\Debug\LAB7_TASK1.exe
